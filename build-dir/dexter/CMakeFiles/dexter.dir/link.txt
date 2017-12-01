@@ -1,0 +1,1 @@
+/usr/bin/c++    -fexceptions -Wno-shift-count-overflow   CMakeFiles/dexter.dir/dexter.o CMakeFiles/dexter.dir/dissasembler.o CMakeFiles/dexter.dir/experimental.o CMakeFiles/dexter.dir/main.o  -o dexter  -L/home/bodyo/Projects/testTask/dexter-1/build-dir/slicer -rdynamic ../slicer/libslicer.a -lz 

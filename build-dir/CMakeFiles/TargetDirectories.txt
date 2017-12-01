@@ -1,0 +1,8 @@
+/home/bodyo/Projects/testTask/dexter-1/build-dir/CMakeFiles/edit_cache.dir
+/home/bodyo/Projects/testTask/dexter-1/build-dir/CMakeFiles/rebuild_cache.dir
+/home/bodyo/Projects/testTask/dexter-1/build-dir/dexter/CMakeFiles/edit_cache.dir
+/home/bodyo/Projects/testTask/dexter-1/build-dir/dexter/CMakeFiles/rebuild_cache.dir
+/home/bodyo/Projects/testTask/dexter-1/build-dir/dexter/CMakeFiles/dexter.dir
+/home/bodyo/Projects/testTask/dexter-1/build-dir/slicer/CMakeFiles/edit_cache.dir
+/home/bodyo/Projects/testTask/dexter-1/build-dir/slicer/CMakeFiles/rebuild_cache.dir
+/home/bodyo/Projects/testTask/dexter-1/build-dir/slicer/CMakeFiles/slicer.dir
